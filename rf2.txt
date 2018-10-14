@@ -1,3 +1,4 @@
+aaaaabbbbbbb
 思考：初始化版本库
 现在，你已初始化首个版本库，现在请转到你的 reflections 目录，新建一个名为 lesson_2_reflections.txt 的文件，然后添加以下问题和你对它的想法：
 
